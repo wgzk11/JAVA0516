@@ -1,6 +1,0 @@
-a a a a a 
-@ResponsMapping("getOne")
-public User getOne(Long id)
-{
-  return UserMapper.getUserById(id);
-}
